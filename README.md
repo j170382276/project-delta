@@ -1,4 +1,4 @@
-### project-template
+#### project-template
 [![Build
 Status](https://travis-ci.org/berkeley-stat159/project-delta.svg?branch=master)](https://travis-ci.org/berkeley-stat159/project-delta?branch=master)
 [![Coverage
